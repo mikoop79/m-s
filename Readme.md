@@ -1,23 +1,24 @@
-# M&S W3 Workflow
+# M&S Workflow
 
 # This is a repos to assist the M&S workflow
 
 
-Basic Functions 
-// Create new M&S report
-// Export a csv per client
-// Add a Client
-	// name
-	//contact email
-	//address
+## Basic Functions 
 
-//Edit a client
-// Archive a client
+##### Create new M&S report
+##### Export a csv per client
+##### Add a Client
+	###### name
+	###### contact email
+	###### address
 
-// Set up the defaults
+##### Edit a client
+##### Archive a client
 
-// List all of the recent Reports by clients 
-// Edit a report
-// Delete a report
-// Duplicate a report
-// Escape the fields
+##### Set up the defaults
+
+##### List all of the recent Reports by clients 
+##### Edit a report
+##### Delete a report
+##### Duplicate a report
+##### Escape the fields

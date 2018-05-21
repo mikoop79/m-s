@@ -18,7 +18,7 @@ class ReportTest extends TestCase
     /** @test */
     function report_can_be_added_to_database()
     {
-        //$this->disableExceptionHandling();
+        $this->disableExceptionHandling();
     	// add one report to the db
     	$report = factory(Report::class)->make()->toArray();
 
